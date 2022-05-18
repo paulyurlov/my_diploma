@@ -1,0 +1,2 @@
+# VKR
+# my_diploma
